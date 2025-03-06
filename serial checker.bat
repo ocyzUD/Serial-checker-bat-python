@@ -19,7 +19,7 @@ wmic diskdrive get SerialNumber
 echo.
 
 echo Motherboard Information
-eho Motherboard Serial Number:
+echo Motherboard Serial Number:
 wmic baseboard get SerialNumber
 echo.
 
